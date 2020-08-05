@@ -1,0 +1,43 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+# relative_permalinks: true
+
+# Setup
+title:               What does ~rogbeer put here?
+tagline:             That which probably doesn't fit anywhere else on the Internet
+url:                 http://tilde.town
+paginate:            1
+baseurl:             "/~rogbeer"
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Tony Chen
+  url:               https://phtan.github.io/
+  email:             phtan90@gmail.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/poole/poole
+
+# deal with errors
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+
+# Add a navigational aid
+pages_list:
+  Archive: '/archive'
+  'RSS Feed': '/atom.xml'
+  'What ~rogbeer is focused on at this point in his life': '/now'
+  "What's with the name, ~rogbeer?": '/rogbeer'
+  'What would people give, for a cassette tape?': '/swap'
