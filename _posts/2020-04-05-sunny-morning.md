@@ -1,5 +1,5 @@
 ---
-title: "Q&A for me"
+title: "Q and A for me"
 layout: post
 ---
 
