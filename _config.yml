@@ -5,8 +5,8 @@ permalink:           pretty
 # relative_permalinks: true
 
 # Setup
-title:               What does ~rogbeer put here?
-tagline:             That which probably doesn't fit anywhere else on the Internet
+title:               ~rogbeer's corner
+tagline:             where ~rogbeer stashes some stuff
 url:                 http://tilde.town
 paginate:            1
 baseurl:             "/~rogbeer"
@@ -20,9 +20,9 @@ sass:
 
 # About/contact
 author:
-  name:              Tony Chen
-  url:               https://phtan.github.io/
-  email:             phtan90@gmail.com
+  name:              ~rogbeer, whoever he is
+  url:               ""
+  email:             ""
 
 # Custom vars
 version:             2.0.0
@@ -38,6 +38,6 @@ plugins:
 pages_list:
   Archive: '/archive'
   'RSS Feed': '/atom.xml'
-  'What ~rogbeer is focused on at this point in his life': '/now'
+  'Contact': '/contact'
   "What's with the name, ~rogbeer?": '/rogbeer'
   'What would people give, for a cassette tape?': '/swap'
