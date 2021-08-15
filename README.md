@@ -1,10 +1,5 @@
 # ~rogbeer
 
-The files from this repo come from the theme [Poole](https://github.com/poole/poole)
-and from running the following command(s):
+welcome.
 
-```
-#!/bin/bash
-JEKYLL_DEST="$HOME/public_html"
-jekyll build -d $JEKYLL_DEST
-```
+may peace be with you, in the name of Lord Jesus Christ.
