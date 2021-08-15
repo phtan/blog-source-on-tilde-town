@@ -31,7 +31,7 @@ github:
 
 # deal with errors
 plugins:
-  - jekyll-gist
+#  - jekyll-gist
   - jekyll-paginate
 
 # Add a navigational aid
@@ -39,5 +39,6 @@ pages_list:
   Archive: '/archive'
   'RSS Feed': '/atom.xml'
   'Contact': '/contact'
+  'What can I do around tilde.town?': '/around_town'
   "What's with the name, ~rogbeer?": '/rogbeer'
-  'What would people give, for a cassette tape?': '/swap'
+  'What is the value of a cassette tape nowadays?': '/swap'
